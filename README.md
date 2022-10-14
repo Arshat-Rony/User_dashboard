@@ -5,7 +5,7 @@
 
 * This is basically a user dashboard application where a logged in user can see all the user available in the database.Also he can update the user and delete a user permanently from the database.
 
-* Here I have used Nodejs for developing the backend code and express.js as a framework.
+* Here I have used Nodejs for developing the backend code and express.js as a frameworks.
 
 * I have stored all of my code in the heroku for making it live.
 
